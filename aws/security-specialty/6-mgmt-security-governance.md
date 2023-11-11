@@ -1,6 +1,6 @@
 # Domain 6 - Management and Security Governance
 
-This section covers domain 5 of the AWS Security Specialty certification.
+This section covers domain 6 of the AWS Security Specialty certification.
 
 ## Task Statement 6.1: Develop a strategy to centrally deploy and manage AWS accounts
 
