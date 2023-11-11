@@ -12,3 +12,9 @@
 ## Certs to pursue
 
 ![AWS Cert Path](images/cert-path.png)
+
+|Icon|Meaning|
+|--|--|
+|:white_check_mark:|Knowledgable in this area|
+|:large_orange_diamond:|Mid|
+|:red_circle:|Knowledge/skills gap|
