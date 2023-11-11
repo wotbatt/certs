@@ -33,3 +33,13 @@ Amazon GuardDuty can generate findings based on suspicious activities such as re
 
 - [AWS Systems Manager Parameter Store Overview](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html)
 - [Sharing Secrets with AWS Lambda Using AWS Systems Manager Parameter Store](https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/)
+
+## VPC IDS/IPS
+
+- [How to set up an outbound VPC proxy with domain whitelisting and content filtering](https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/)
+- [Intrusion Detection Systems and Intrusion Prevention Systems for EC2 Instances](https://d1.awsstatic.com/Marketplace/scenarios/security/SEC_01_TSB_Final.pdf)
+
+## AWS Config
+
+- [How to Use AWS Config to Monitor for and Respond to Amazon S3 Buckets Allowing Public Access](https://aws.amazon.com/blogs/security/how-to-use-aws-config-to-monitor-for-and-respond-to-amazon-s3-buckets-allowing-public-access/)
+ 
