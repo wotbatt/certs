@@ -70,12 +70,3 @@ This section covers domain 2 of the AWS Security Specialty certification.
 
 - Identifying patterns in logs to indicate anomalies and known threats
 - Normalizing, parsing, and correlating logs
-
-## VPC IDS/IPS
-
-- [How to set up an outbound VPC proxy with domain whitelisting and content filtering](https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/)
-- [Intrusion Detection Systems and Intrusion Prevention Systems for EC2 Instances](https://d1.awsstatic.com/Marketplace/scenarios/security/SEC_01_TSB_Final.pdf)
-
-## AWS Config
-
-- [How to Use AWS Config to Monitor for and Respond to Amazon S3 Buckets Allowing Public Access](https://aws.amazon.com/blogs/security/how-to-use-aws-config-to-monitor-for-and-respond-to-amazon-s3-buckets-allowing-public-access/)
