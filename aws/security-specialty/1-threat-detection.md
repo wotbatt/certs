@@ -12,7 +12,7 @@
 
 **Knowledge of:**
 
-- AWS best practices for incident response
+- AWS best practices for incident response :white_check_mark:
 - Cloud incidents
 - Roles and responsibilities in the incident response plan
 - AWS Security Finding Format (ASFF)
