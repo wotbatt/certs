@@ -112,7 +112,7 @@ material
 
 ## Amazon Kinesis
 
-- [Data Protection in Amazon Kinesis Data Analytics for SQL Applications](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/data-protection.html
+- [Data Protection in Amazon Kinesis Data Analytics for SQL Applications](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/data-protection.html)
 - [TD Amazon Kinesis cheat sheet](https://tutorialsdojo.com/amazon-kinesis/)
 
 ## DynamoDB
