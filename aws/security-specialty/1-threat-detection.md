@@ -7,7 +7,7 @@
   - [GuardDuty](#guardduty)
   - [Secrets Manager](#secrets-manager)
   - [SSM Parameter Store](#ssm-parameter-store)
-  - [Conference links](#aws-conference-talks
+  - [Conference links](#aws-conference-talks)
 
 ## Task Statement 1.1: Design and implement an incident response plan
 
