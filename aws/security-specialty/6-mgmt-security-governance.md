@@ -65,3 +65,24 @@ by using delegated administration and AWS Config aggregators)
 - Identifying anomalies based on resource utilization and trends
 - Identifying unused resources by using AWS services and tools (for example, AWS Trusted Advisor, AWS Cost Explorer)
 - Using the AWS Well-Architected Tool to identify security gaps
+
+## OUs 
+
+- [Managing organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html)
+
+## IAM
+
+- [SCIM profile and SAML 2.0 implementation](https://docs.aws.amazon.com/singlesignon/latest/userguide/scim-profile-saml.html)
+
+## DNS - ACM & Route 53
+
+- [Why is the CNAME record not resolving for my ACM issued certificate and the DNS validation status is still pending validation?](https://repost.aws/knowledge-center/acm-certificate-pending-validation)
+- [TD Route 53 cheat sheet](https://tutorialsdojo.com/amazon-route-53/)
+- [Configuring DNSSEC signing in Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-configuring-dnssec.html)
+- [Enabling DNSSEC signing and establishing a chain of trust](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-configuring-dnssec-enable-signing.html)
+- [Route53 DS record has wrong keytag](https://repost.aws/pt/questions/QUnoNwU3yIS66WSWfuH2H35Q/route53-ds-record-has-wrong-keytag)
+
+## AWS Config
+
+- [How to Monitor AWS Account Configuration Changes and API Calls to Amazon EC2 Security Groups](https://aws.amazon.com/blogs/security/how-to-monitor-aws-account-configuration-changes-and-api-calls-to-amazon-ec2-security-groups/)
+- [Example AWS Lambda Functions for AWS Config Rules (Node.js)](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config_develop-rules_nodejs-sample.html)
