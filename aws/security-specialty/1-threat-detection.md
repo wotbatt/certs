@@ -7,6 +7,7 @@
   - [GuardDuty](#guardduty)
   - [Secrets Manager](#secrets-manager)
   - [SSM Parameter Store](#ssm-parameter-store)
+  - [Conference links](#aws-conference-talks
 
 ## Task Statement 1.1: Design and implement an incident response plan
 
@@ -87,3 +88,8 @@ Amazon GuardDuty can generate findings based on suspicious activities such as re
 
 - [AWS Systems Manager Parameter Store Overview](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html)
 - [Sharing Secrets with AWS Lambda Using AWS Systems Manager Parameter Store](https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/)
+
+## AWS Conference Talks 
+
+- [AWS re:Invent 2022 - Threat detection and IR using cloud native services](https://youtu.be/lx4igENUPVg?si=Xwi2t63C4SRAw5jc)
+- [AWS re:Invent 2020 - Instance containment techniques for effective IR](https://youtu.be/pPCuCYrhIyI?si=q9JrT1XO0HNUImjw)
