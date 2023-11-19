@@ -105,6 +105,7 @@ material
 - [Initiate Vault Lock (POST lock-policy)](https://docs.aws.amazon.com/amazonglacier/latest/dev/api-InitiateVaultLock.html)
 - [Protecting data with encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingEncryption.html)
 - [Data protection in Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DataDurability.html)
+- [Reducing the cost of SSE-KMS with Amazon S3 Bucket Keys](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html)
 
 ## CloudTrail
 
