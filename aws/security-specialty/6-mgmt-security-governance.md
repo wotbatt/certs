@@ -86,3 +86,7 @@ by using delegated administration and AWS Config aggregators)
 
 - [How to Monitor AWS Account Configuration Changes and API Calls to Amazon EC2 Security Groups](https://aws.amazon.com/blogs/security/how-to-monitor-aws-account-configuration-changes-and-api-calls-to-amazon-ec2-security-groups/)
 - [Example AWS Lambda Functions for AWS Config Rules (Node.js)](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config_develop-rules_nodejs-sample.html)
+
+## CloudFormation
+
+- [Intrinsic function reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html)
