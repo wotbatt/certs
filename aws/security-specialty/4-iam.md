@@ -35,6 +35,10 @@ requirements :white_check_mark:
 - Analyzing access or authorization errors to determine cause or effect :white_check_mark:
 - Investigating unintended permissions, authorization, or privileges granted to a resource, service, or entity :white_check_mark:
 
+## IAM
+
+- [Permissions for GetFederationToken](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access_getfederationtoken.html)
+
 ## AWS Managed Active Directory
 
 - [AWS Federated Authentication with Active Directory Federation Services (AD FS)](https://aws.amazon.com/blogs/security/aws-federated-authentication-with-active-directory-federation-services-ad-fs/)
@@ -69,8 +73,15 @@ requirements :white_check_mark:
 - [How to Use Bucket Policies and Apply Defense-in-Depth to Help Secure Your Amazon S3 Data](https://aws.amazon.com/blogs/security/how-to-use-bucket-policies-and-apply-defense-in-depth-to-help-secure-your-amazon-s3-data/)
 - [How to restrict Amazon S3 bucket access to a specific IAM role](https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/)
 - [Amazon S3: Restrict management to a specific S3 bucket](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_deny-except-bucket.html)
+- [S3 bucket policy for AWS Config](https://repost.aws/knowledge-center/config-console-error)
+- [Replicating objects created with server-side encryption - IAM permissions](https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-config-for-kms-objects.html)
 
 ## CloudWatch
 
 - [TD CloudWatch cheat sheet](https://tutorialsdojo.com/amazon-cloudwatch/)
 - [Amazon CloudWatch permissions reference](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/permissions-reference-cw.html)
+
+## CloudFormation
+
+- [Prevent updates to stack resources](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html)
+- [Prevent a stack from being deleted](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-protect-stacks.html)

@@ -84,6 +84,9 @@ material :white_check_mark:
 - [Create data keys](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#data-keys)
 - [GenerateDataKeyWithoutPlaintext API reference](https://docs.aws.amazon.com/kms/latest/APIReference/API_GenerateDataKeyWithoutPlaintext.html)
 - [Protecting data by using client-side encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingClientSideEncryption.html)
+- [Importing key material](https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys.html)
+- [Creating a CloudWatch alarm for expiration of imported key material](https://docs.aws.amazon.com/kms/latest/developerguide/importing-keys.html)
+  - This alarm uses the **SecondsUntilKeyMaterialExpires** metric that AWS KMS publishes to CloudWatch for KMS keys with imported key material that expires. Each alarm uses this metric to monitor the imported key material for a particular KMS key. You cannot create a single alarm for all KMS keys with expiring key material or an alarm for KMS keys that you might create in the future.
 
 ## Simple Email Service (SES)
 
@@ -94,6 +97,7 @@ material :white_check_mark:
 - [Sharing Secrets with AWS Lambda Using AWS Systems Manager Parameter Store](https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/)
 - [AWS Systems Manager Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html)
 - [Managing Parameter Tiers](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-advanced-parameters.html)
+- [How Parameter Store uses KMS](https://docs.aws.amazon.com/kms/latest/developerguide/services-parameter-store.html)
 
 ## AWS EBS
 
@@ -120,3 +124,7 @@ material :white_check_mark:
 
 - [What is the AWS Database Encryption SDK?](https://docs.aws.amazon.com/database-encryption-sdk/latest/devguide/what-is-database-encryption-sdk.html)
 - [AWS Database Encryption SDK for DynamoDB](https://docs.aws.amazon.com/database-encryption-sdk/latest/devguide/dynamodb-encryption-client.html)
+
+## Lambda
+
+- [Configuring code signing for Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-codesigning.html)

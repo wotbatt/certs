@@ -70,6 +70,12 @@ This section covers domain 3 of the AWS Security Specialty certification.
 - Analyzing log sources to identify problems :white_check_mark:
 - Capturing traffic samples for problem analysis (for example, by using Traffic Mirroring) :white_check_mark:
 
+## EC2
+
+- [Work with instance metadata](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ExamplePolicies_EC2.html#iam-example-instance-metadata)
+- [How the IMDSv2 works](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-metadata-v2-how-it-works.html)
+- [Infrastructure security in Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/infrastructure-security.html   )
+
 ## VPC IDS/IPS
 
 - [How to set up an outbound VPC proxy with domain whitelisting and content filtering](https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/)
@@ -78,3 +84,20 @@ This section covers domain 3 of the AWS Security Specialty certification.
 ## AWS Config
 
 - [How to Use AWS Config to Monitor for and Respond to Amazon S3 Buckets Allowing Public Access](https://aws.amazon.com/blogs/security/how-to-use-aws-config-to-monitor-for-and-respond-to-amazon-s3-buckets-allowing-public-access/)
+
+## ELB
+
+- [Elastic Load Balancing – Perfect Forward Secrecy and Other Security Enhancements](https://aws.amazon.com/blogs/aws/elastic-load-balancing-perfect-forward-secrecy-and-other-security-enhancements/)
+  - To begin using Perfect Forward Secrecy, configure your load balancer with the newly added Elliptic Curve Cryptography (ECDHE) cipher suites.
+- [ALB Adds New Security Policies Including Policy for Forward Secrecy](https://aws.amazon.com/about-aws/whats-new/2018/06/application-load-balancer-adds-new-security-policies-including-policy-for-forward-secrecy/)
+  - **ELBSecurityPolicy-FS-2018-06** implements ciphers that ensure Forward Secrecy. Customers now have a policy that prevents out-of-band decryption if someone records the traffic and later compromises the server’s private key.
+  - [ALB Security policies](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/create-https-listener.html#describe-ssl-policies)
+
+## AWS Network Firewall
+
+- [Deployment models for AWS Network Firewall](https://aws.amazon.com/blogs/networking-and-content-delivery/deployment-models-for-aws-network-firewall/)
+
+## CloudFront
+
+- [Authorization@Edge using cookies: Protect your Amazon CloudFront content from being downloaded by unauthenticated users](https://aws.amazon.com/blogs/networking-and-content-delivery/authorizationedge-using-cookies-protect-your-amazon-cloudfront-content-from-being-downloaded-by-unauthenticated-users/)
+- [Using the managed response headers policies](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-managed-response-headers-policies.html#managed-response-headers-policies-security)
