@@ -76,6 +76,12 @@ This section covers domain 3 of the AWS Security Specialty certification.
 - [How the IMDSv2 works](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-metadata-v2-how-it-works.html)
 - [Infrastructure security in Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/infrastructure-security.html   )
 
+## EC2
+
+- [Work with instance metadata](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ExamplePolicies_EC2.html#iam-example-instance-metadata)
+- [How the IMDSv2 works](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-metadata-v2-how-it-works.html)
+- [Infrastructure security in Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/infrastructure-security.html   )
+
 ## VPC IDS/IPS
 
 - [How to set up an outbound VPC proxy with domain whitelisting and content filtering](https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/)

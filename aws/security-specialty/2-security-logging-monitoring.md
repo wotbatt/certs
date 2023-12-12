@@ -70,3 +70,12 @@ This section covers domain 2 of the AWS Security Specialty certification.
 
 - Identifying patterns in logs to indicate anomalies and known threats :white_check_mark:
 - Normalizing, parsing, and correlating logs :white_check_mark:
+
+## ACM
+
+- [How can I be notified when my ACM imported certificates are near expiration?](https://repost.aws/knowledge-center/acm-certificate-expiration)
+
+## Route53
+
+- [Log your VPC DNS queries with Route 53 Resolver Query Logs](https://aws.amazon.com/blogs/aws/log-your-vpc-dns-queries-with-route-53-resolver-query-logs/)
+
