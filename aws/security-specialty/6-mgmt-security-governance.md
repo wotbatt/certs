@@ -35,9 +35,9 @@ by using delegated administration and AWS Config aggregators) :white_check_mark:
 - Using CloudFormation to deploy cloud resources consistently and securely :white_check_mark:
 - Implementing and enforcing multi-account tagging strategies :large_orange_diamond:
 - Configuring and deploying portfolios of approved AWS services (for example, by using AWS Service Catalog) :large_orange_diamond:
-- Organizing AWS resources into different groups for management :large_orange_diamond
+- Organizing AWS resources into different groups for management :large_orange_diamond:
 - Deploying Firewall Manager to enforce policies :white_check_mark:
-- Securely sharing resources across AWS accounts (for example, by using AWS Resource Access Manager [AWS RAM]) :large_orange_diamond
+- Securely sharing resources across AWS accounts (for example, by using AWS Resource Access Manager [AWS RAM]) :large_orange_diamond:
 
 ## Task Statement 6.3: Evaluate the compliance of AWS resources
 
