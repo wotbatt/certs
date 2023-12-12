@@ -10,7 +10,7 @@ This section covers domain 5 of the AWS Security Specialty certification.
 - VPN concepts (for example, IPsec) :white_check_mark:
 - Secure remote access methods (for example, SSH, RDP over Systems Manager Session Manager) :white_check_mark:
 - Systems Manager Session Manager concepts :white_check_mark:
-- How TLS certificates work with various network services and resources (for example, CloudFront, load balancers) :large_orange_circle:
+- How TLS certificates work with various network services and resources (for example, CloudFront, load balancers) :large_orange_diamond:
 
 **Skills in:**
 
@@ -48,15 +48,15 @@ This section covers domain 5 of the AWS Security Specialty certification.
 **Skills in:**
 
 - Designing S3 Lifecycle mechanisms to retain data for required retention periods (for example, S3 Object Lock, S3 Glacier Vault Lock, S3 Lifecycle policy) :white_check_mark:
-- Designing automatic lifecycle management for AWS services and resources (for example, Amazon S3, EBS volume snapshots, RDS volume snapshots, AMIs, container images, CloudWatch log groups, Amazon Data Lifecycle Manager) :large_orange_circle:
-- Establishing schedules and retention for AWS Backup across AWS services :large_orange_circle:
+- Designing automatic lifecycle management for AWS services and resources (for example, Amazon S3, EBS volume snapshots, RDS volume snapshots, AMIs, container images, CloudWatch log groups, Amazon Data Lifecycle Manager) :large_orange_diamond:
+- Establishing schedules and retention for AWS Backup across AWS services :large_orange_diamond:
 
 ## Task Statement 5.4: Design and implement controls to protect credentials, secrets, and cryptographic key materials
 
 **Knowledge of:**
 
 - Secrets Manager :white_check_mark:
-- Systems Manager Parameter Store :large_orange_circle:
+- Systems Manager Parameter Store :large_orange_diamond:
 - Usage and management of symmetric keys and asymmetric keys (for example, AWS KMS) :white_check_mark:
 
 **Skills in:**

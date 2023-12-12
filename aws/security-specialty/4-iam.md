@@ -27,7 +27,7 @@ requirements :white_check_mark:
 
 **Skills in:**
 
-- Constructing attribute-based access control (ABAC) and role-based access control (RBAC) strategies :large_orange_circle:
+- Constructing attribute-based access control (ABAC) and role-based access control (RBAC) strategies :large_orange_diamond:
 - Evaluating IAM policy types for given requirements and workloads :white_check_mark:
 - Interpreting an IAM policy’s effect on environments and workloads :white_check_mark:
 - Applying the principle of least privilege across an environment :white_check_mark:

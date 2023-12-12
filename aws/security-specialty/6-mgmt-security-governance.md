@@ -15,7 +15,7 @@ This section covers domain 6 of the AWS Security Specialty certification.
 **Skills in:**
 
 - Deploying and configuring AWS Organizations :white_check_mark:
-- Determining when and how to deploy AWS Control Tower (for example, which services must be deactivated for successful deployment) :large_orange_circle:
+- Determining when and how to deploy AWS Control Tower (for example, which services must be deactivated for successful deployment) :large_orange_diamond:
 - Implementing SCPs as a technical solution to enforce a policy (for example, limitations on the use of a root account, implementation of controls in AWS Control Tower) :white_check_mark:
 - Centrally managing security services and aggregating findings (for example,
 by using delegated administration and AWS Config aggregators) :white_check_mark:
@@ -33,11 +33,11 @@ by using delegated administration and AWS Config aggregators) :white_check_mark:
 **Skills in:**
 
 - Using CloudFormation to deploy cloud resources consistently and securely :white_check_mark:
-- Implementing and enforcing multi-account tagging strategies :large_orange_circle:
-- Configuring and deploying portfolios of approved AWS services (for example, by using AWS Service Catalog) :large_orange_circle:
-- Organizing AWS resources into different groups for management :large_orange_circle
+- Implementing and enforcing multi-account tagging strategies :large_orange_diamond:
+- Configuring and deploying portfolios of approved AWS services (for example, by using AWS Service Catalog) :large_orange_diamond:
+- Organizing AWS resources into different groups for management :large_orange_diamond
 - Deploying Firewall Manager to enforce policies :white_check_mark:
-- Securely sharing resources across AWS accounts (for example, by using AWS Resource Access Manager [AWS RAM]) :large_orange_circle
+- Securely sharing resources across AWS accounts (for example, by using AWS Resource Access Manager [AWS RAM]) :large_orange_diamond
 
 ## Task Statement 6.3: Evaluate the compliance of AWS resources
 
@@ -58,13 +58,13 @@ by using delegated administration and AWS Config aggregators) :white_check_mark:
 
 - AWS cost and usage for anomaly identification :white_check_mark:
 - Strategies to reduce attack surfaces :white_check_mark:
-- AWS Well-Architected Framework :large_orange_circle:
+- AWS Well-Architected Framework :large_orange_diamond:
 
 **Skills in:**
 
 - Identifying anomalies based on resource utilization and trends :white_check_mark:
 - Identifying unused resources by using AWS services and tools (for example, AWS Trusted Advisor, AWS Cost Explorer) :white_check_mark:
-- Using the AWS Well-Architected Tool to identify security gaps :large_orange_circle:
+- Using the AWS Well-Architected Tool to identify security gaps :large_orange_diamond:
 
 ## OUs
 
