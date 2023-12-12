@@ -84,12 +84,17 @@ Amazon GuardDuty can generate findings based on suspicious activities such as re
 - [What is AWS Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)
 - [Rotate AWS Secrets Manager secrets](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets.html)
 
-## SSM Parameter Store
+## AWS SSM
 
 - [AWS Systems Manager Parameter Store Overview](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html)
 - [Sharing Secrets with AWS Lambda Using AWS Systems Manager Parameter Store](https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/)
+- [Create your own runbooks - SSM](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-documents.html)
 
-## AWS Conference Talks 
+## AWS Config
+
+- [Creating AWS Config Custom Policy Rules](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config_develop-rules_cfn-guard.html). You can create AWS Config Custom Policy rules from the AWS Management Console, AWS CLI, or AWS Config API. For more information on how to write rules with Guard, see [Writing Guard rules](https://docs.aws.amazon.com/cfn-guard/latest/ug/writing-rules.html) in the AWS CloudFormation Guard User Guide. For more information on the schemas of supported resource types that AWS Config can evaluate, see [resource-types](https://github.com/awslabs/aws-config-resource-schema/tree/master/config/properties/resource-types) in the AWS Config Resource Schema GitHub Repository.
+
+## AWS Conference Talks
 
 - [AWS re:Invent 2022 - Threat detection and IR using cloud native services](https://youtu.be/lx4igENUPVg?si=Xwi2t63C4SRAw5jc)
 - [AWS re:Invent 2020 - Instance containment techniques for effective IR](https://youtu.be/pPCuCYrhIyI?si=q9JrT1XO0HNUImjw)
