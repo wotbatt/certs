@@ -68,5 +68,5 @@ This section covers domain 2 of the AWS Security Specialty certification.
 
 **Skills in:**
 
-- Identifying patterns in logs to indicate anomalies and known threats :red_circle:
-- Normalizing, parsing, and correlating logs :red_circle
+- Identifying patterns in logs to indicate anomalies and known threats :white_check_mark:
+- Normalizing, parsing, and correlating logs :white_check_mark:
