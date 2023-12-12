@@ -16,41 +16,41 @@
 - AWS best practices for incident response :white_check_mark:
 - Cloud incidents :white_check_mark:
 - Roles and responsibilities in the incident response plan :white_check_mark:
-- AWS Security Finding Format (ASFF) :large_orange_diamond: :white_check_mark:
+- AWS Security Finding Format (ASFF) :white_check_mark:
 
 **Skills in:**
 
-- Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and AWS Secrets Manager)
-- Isolating AWS resources :large_orange_diamond:
-- Designing and implementing playbooks and runbooks for responses to security incidents :large_orange_diamond:
+- Implementing credential invalidation and rotation strategies in response to compromises (for example, by using AWS Identity and Access Management [IAM] and AWS Secrets Manager) :white_check_mark:
+- Isolating AWS resources :white_check_mark:
+- Designing and implementing playbooks and runbooks for responses to security incidents :white_check_mark:
 - Deploying security services (for example, AWS Security Hub, Amazon Macie, Amazon GuardDuty, Amazon Inspector, AWS Config, Amazon Detective, AWS Identity and Access Management Access Analyzer) :white_check_mark:
-- Configuring integrations with native AWS services and third-party services (for example, by using Amazon EventBridge and the ASFF) :red_circle:
+- Configuring integrations with native AWS services and third-party services (for example, by using Amazon EventBridge and the ASFF) :white_check_mark:
 
 ## Task Statement 1.2: Detect security threats and anomalies by using AWS services
 
 **Knowledge of:**
 
 - AWS managed security services that detect threats :white_check_mark:
-- Anomaly and correlation techniques to join data across services :red_circle:
-- Visualizations to identify anomalies :red_circle:
-- Strategies to centralize security findings :large_orange_diamond:
+- Anomaly and correlation techniques to join data across services :white_check_mark:
+- Visualizations to identify anomalies :white_check_mark:
+- Strategies to centralize security findings :white_check_mark:
 
 **Skills in:**
 
 - Evaluating findings from security services (for example, GuardDuty, Security Hub, Macie, AWS Config, IAM Access Analyzer) :white_check_mark:
-- Searching and correlating security threats across AWS services (for example, by using Detective) :large_orange_diamond:
-- Performing queries to validate security events (for example, by using Amazon Athena) :large_orange_diamond:
-- Creating metric filters and dashboards to detect anomalous activity (for example, by using Amazon CloudWatch) :large_orange_diamond:
+- Searching and correlating security threats across AWS services (for example, by using Detective) :white_check_mark:
+- Performing queries to validate security events (for example, by using Amazon Athena) :white_check_mark:
+- Creating metric filters and dashboards to detect anomalous activity (for example, by using Amazon CloudWatch) :white_check_mark:
 
 ## Task Statement 1.3: Respond to compromised resources and workloads
 
 **Knowledge of:**
 
-- AWS Security Incident Response Guide :large_orange_diamond:
-- Resource isolation mechanisms :large_orange_diamond:
-- Techniques for root cause analysis :large_orange_diamond:
-- Data capture mechanisms :large_orange_diamond:
-- Log analysis for event validation :large_orange_diamond:
+- AWS Security Incident Response Guide :white_check_mark:
+- Resource isolation mechanisms :white_check_mark:
+- Techniques for root cause analysis :white_check_mark:
+- Data capture mechanisms :white_check_mark:
+- Log analysis for event validation :white_check_mark:
 
 **Skills in:**
 
@@ -58,9 +58,9 @@
 - Responding to compromised resources (for example, by isolating Amazon EC2 instances) :red_circle:
 - Investigating and analyzing to conduct root cause analysis (for example, by using Detective) :red_circle:
 - Capturing relevant forensics data from a compromised resource (for example, Amazon Elastic Block Store [Amazon EBS] volume snapshots, memory dump) :red_circle:
-- Querying logs in Amazon S3 for contextual information related to security events (for example, by using Athena) :red_circle:
+- Querying logs in Amazon S3 for contextual information related to security events (for example, by using Athena) :white_check_mark:
 - Protecting and preserving forensic artifacts (for example, by using S3 Object Lock, isolated forensic accounts, S3 Lifecycle, and S3 replication) :large_orange_diamond:
-- Preparing services for incidents and recovering services after incidents :red_circle:
+- Preparing services for incidents and recovering services after incidents :white_check_mark:
 
 ## IAM
 

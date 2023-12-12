@@ -6,34 +6,34 @@ This section covers domain 4 of the AWS Security Specialty certification.
 
 **Knowledge of:**
 
-- Methods and services for creating and managing identities (for example, federation, identity providers, AWS IAM Identity Center [AWS Single Sign-On], Amazon Cognito)
-- Long-term and temporary credentialing mechanisms
-- How to troubleshoot authentication issues (for example, by using CloudTrail, IAM Access Advisor, and IAM policy simulator)
+- Methods and services for creating and managing identities (for example, federation, identity providers, AWS IAM Identity Center [AWS Single Sign-On], Amazon Cognito) :white_check_mark:
+- Long-term and temporary credentialing mechanisms :white_check_mark:
+- How to troubleshoot authentication issues (for example, by using CloudTrail, IAM Access Advisor, and IAM policy simulator) :white_check_mark:
 
 **Skills in:**
 
 - Establishing identity through an authentication system, based on
-requirements
-- Setting up multi-factor authentication (MFA)
-- Determining when to use AWS Security Token Service (AWS STS) to issue temporary credentials
+requirements :white_check_mark:
+- Setting up multi-factor authentication (MFA) :white_check_mark:
+- Determining when to use AWS Security Token Service (AWS STS) to issue temporary credentials :white_check_mark:
 
 ## Task Statement 4.2: Design, implement, and troubleshoot authorization for AWS resources
 
 **Knowledge of:**
 
-- Different IAM policies (for example, managed policies, inline policies, identity-based policies, resource-based policies, session control policies)
-- Components and impact of a policy (for example, Principal, Action, Resource, Condition)
-- How to troubleshoot authorization issues (for example, by using CloudTrail, IAM Access Advisor, and IAM policy simulator)
+- Different IAM policies (for example, managed policies, inline policies, identity-based policies, resource-based policies, session control policies) :white_check_mark:
+- Components and impact of a policy (for example, Principal, Action, Resource, Condition) :white_check_mark:
+- How to troubleshoot authorization issues (for example, by using CloudTrail, IAM Access Advisor, and IAM policy simulator) :white_check_mark:
 
 **Skills in:**
 
-- Constructing attribute-based access control (ABAC) and role-based access control (RBAC) strategies
-- Evaluating IAM policy types for given requirements and workloads
-- Interpreting an IAM policy’s effect on environments and workloads
-- Applying the principle of least privilege across an environment
-- Enforcing proper separation of duties
-- Analyzing access or authorization errors to determine cause or effect
-- Investigating unintended permissions, authorization, or privileges granted to a resource, service, or entity
+- Constructing attribute-based access control (ABAC) and role-based access control (RBAC) strategies :large_orange_circle:
+- Evaluating IAM policy types for given requirements and workloads :white_check_mark:
+- Interpreting an IAM policy’s effect on environments and workloads :white_check_mark:
+- Applying the principle of least privilege across an environment :white_check_mark:
+- Enforcing proper separation of duties :white_check_mark:
+- Analyzing access or authorization errors to determine cause or effect :white_check_mark:
+- Investigating unintended permissions, authorization, or privileges granted to a resource, service, or entity :white_check_mark:
 
 ## AWS Managed Active Directory
 
@@ -70,7 +70,7 @@ requirements
 - [How to restrict Amazon S3 bucket access to a specific IAM role](https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/)
 - [Amazon S3: Restrict management to a specific S3 bucket](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_s3_deny-except-bucket.html)
 
-## CloudWatch 
+## CloudWatch
 
 - [TD CloudWatch cheat sheet](https://tutorialsdojo.com/amazon-cloudwatch/)
 - [Amazon CloudWatch permissions reference](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/permissions-reference-cw.html)

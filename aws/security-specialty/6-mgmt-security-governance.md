@@ -6,67 +6,67 @@ This section covers domain 6 of the AWS Security Specialty certification.
 
 **Knowledge of:**
 
-- Multi-account strategies
-- Managed services that allow delegated administration
-- Policy-defined guardrails
-- Root account best practices
-- Cross-account roles
+- Multi-account strategies :white_check_mark:
+- Managed services that allow delegated administration :white_check_mark:
+- Policy-defined guardrails :white_check_mark:
+- Root account best practices :white_check_mark:
+- Cross-account roles :white_check_mark:
 
 **Skills in:**
 
-- Deploying and configuring AWS Organizations
-- Determining when and how to deploy AWS Control Tower (for example, which services must be deactivated for successful deployment)
-- Implementing SCPs as a technical solution to enforce a policy (for example, limitations on the use of a root account, implementation of controls in AWS Control Tower)
+- Deploying and configuring AWS Organizations :white_check_mark:
+- Determining when and how to deploy AWS Control Tower (for example, which services must be deactivated for successful deployment) :large_orange_circle:
+- Implementing SCPs as a technical solution to enforce a policy (for example, limitations on the use of a root account, implementation of controls in AWS Control Tower) :white_check_mark:
 - Centrally managing security services and aggregating findings (for example,
-by using delegated administration and AWS Config aggregators)
-- Securing AWS account root user credentials
+by using delegated administration and AWS Config aggregators) :white_check_mark:
+- Securing AWS account root user credentials :white_check_mark:
 
 ## Task Statement 6.2: Implement a secure and consistent deployment strategy for cloud resources
 
 **Knowledge of:**
 
-- Deployment best practices with infrastructure as code (IaC) (for example, AWS CloudFormation template hardening and drift detection)
-- Best practices for tagging
-- Centralized management, deployment, and versioning of AWS services
-- Visibility and control over AWS infrastructure
+- Deployment best practices with infrastructure as code (IaC) (for example, AWS CloudFormation template hardening and drift detection) :white_check_mark:
+- Best practices for tagging :white_check_mark:
+- Centralized management, deployment, and versioning of AWS services :white_check_mark:
+- Visibility and control over AWS infrastructure :white_check_mark:
 
 **Skills in:**
 
-- Using CloudFormation to deploy cloud resources consistently and securely
-- Implementing and enforcing multi-account tagging strategies
-- Configuring and deploying portfolios of approved AWS services (for example, by using AWS Service Catalog)
-- Organizing AWS resources into different groups for management
-- Deploying Firewall Manager to enforce policies
-- Securely sharing resources across AWS accounts (for example, by using AWS Resource Access Manager [AWS RAM])
+- Using CloudFormation to deploy cloud resources consistently and securely :white_check_mark:
+- Implementing and enforcing multi-account tagging strategies :large_orange_circle:
+- Configuring and deploying portfolios of approved AWS services (for example, by using AWS Service Catalog) :large_orange_circle:
+- Organizing AWS resources into different groups for management :large_orange_circle
+- Deploying Firewall Manager to enforce policies :white_check_mark:
+- Securely sharing resources across AWS accounts (for example, by using AWS Resource Access Manager [AWS RAM]) :large_orange_circle
 
 ## Task Statement 6.3: Evaluate the compliance of AWS resources
 
 **Knowledge of:**
 
-- Data classification by using AWS services
-- How to assess, audit, and evaluate the configurations of AWS resources (for example, by using AWS Config)
+- Data classification by using AWS services :white_check_mark:
+- How to assess, audit, and evaluate the configurations of AWS resources (for example, by using AWS Config) :white_check_mark:
 
 **Skills in:**
 
-- Identifying sensitive data by using Macie
-- Creating AWS Config rules for detection of noncompliant AWS resources
-- Collecting and organizing evidence by using Security Hub and AWS Audit Manager
+- Identifying sensitive data by using Macie :white_check_mark:
+- Creating AWS Config rules for detection of noncompliant AWS resources :white_check_mark:
+- Collecting and organizing evidence by using Security Hub and AWS Audit Manager :white_check_mark:
 
 ## Task Statement 6.4: Identify security gaps through architectural reviews and cost analysis
 
 **Knowledge of:**
 
-- AWS cost and usage for anomaly identification
-- Strategies to reduce attack surfaces
-- AWS Well-Architected Framework
+- AWS cost and usage for anomaly identification :white_check_mark:
+- Strategies to reduce attack surfaces :white_check_mark:
+- AWS Well-Architected Framework :large_orange_circle:
 
 **Skills in:**
 
-- Identifying anomalies based on resource utilization and trends
-- Identifying unused resources by using AWS services and tools (for example, AWS Trusted Advisor, AWS Cost Explorer)
-- Using the AWS Well-Architected Tool to identify security gaps
+- Identifying anomalies based on resource utilization and trends :white_check_mark:
+- Identifying unused resources by using AWS services and tools (for example, AWS Trusted Advisor, AWS Cost Explorer) :white_check_mark:
+- Using the AWS Well-Architected Tool to identify security gaps :large_orange_circle:
 
-## OUs 
+## OUs
 
 - [Managing organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html)
 
