@@ -10,7 +10,7 @@ This section covers domain 5 of the AWS Security Specialty certification.
 - VPN concepts (for example, IPsec) :white_check_mark:
 - Secure remote access methods (for example, SSH, RDP over Systems Manager Session Manager) :white_check_mark:
 - Systems Manager Session Manager concepts :white_check_mark:
-- How TLS certificates work with various network services and resources (for example, CloudFront, load balancers) :large_orange_diamond:
+- How TLS certificates work with various network services and resources (for example, CloudFront, load balancers) :white_check_mark:
 
 **Skills in:**
 

@@ -56,15 +56,15 @@ This section covers domain 2 of the AWS Security Specialty certification.
 **Skills in:**
 
 - Identifying misconfiguration and determining remediation steps for absent access permissions that are necessary for logging (for example, by managing read/write permissions, S3 bucket permissions, public access, and integrity) :white_check_mark:
-- Determining the cause of missing logs and performing remediation steps:white_check_mark:
+- Determining the cause of missing logs and performing remediation steps :white_check_mark:
 
 ## Task Statement 2.5: Design a log analysis solution
 
 **Knowledge of:**
 
 - Services and tools to analyze captured logs (for example, Athena, CloudWatch Logs filter) :white_check_mark:
-- Log analysis features of AWS services (for example, CloudWatch Logs Insights, CloudTrail Insights, Security Hub insights) :large_orange_diamond:
-- Log format and components (for example, CloudTrail logs) :large_orange_diamond:
+- Log analysis features of AWS services (for example, CloudWatch Logs Insights, CloudTrail Insights, Security Hub insights) :white_check_mark:
+- Log format and components (for example, CloudTrail logs) :white_check_mark:
 
 **Skills in:**
 

@@ -65,7 +65,7 @@ This section covers domain 3 of the AWS Security Specialty certification.
 
 **Skills in:**
 
-- Identifying, interpreting, and prioritizing problems in network connectivity (for example, by using Amazon Inspector Network Reachability) :large_orange_diamond:
+- Identifying, interpreting, and prioritizing problems in network connectivity (for example, by using Amazon Inspector Network Reachability) :white_check_mark:
 - Determining solutions to produce desired network behavior :white_check_mark:
 - Analyzing log sources to identify problems :white_check_mark:
 - Capturing traffic samples for problem analysis (for example, by using Traffic Mirroring) :white_check_mark:
