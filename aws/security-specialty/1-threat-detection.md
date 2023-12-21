@@ -54,12 +54,12 @@
 
 **Skills in:**
 
-- Automating remediation by using AWS services (for example, AWS Lambda, AWS Step Functions, EventBridge, AWS Systems Manager runbooks, Security Hub, AWS Config) :red_circle:
-- Responding to compromised resources (for example, by isolating Amazon EC2 instances) :red_circle:
-- Investigating and analyzing to conduct root cause analysis (for example, by using Detective) :red_circle:
-- Capturing relevant forensics data from a compromised resource (for example, Amazon Elastic Block Store [Amazon EBS] volume snapshots, memory dump) :red_circle:
+- Automating remediation by using AWS services (for example, AWS Lambda, AWS Step Functions, EventBridge, AWS Systems Manager runbooks, Security Hub, AWS Config) :white_check_mark:
+- Responding to compromised resources (for example, by isolating Amazon EC2 instances) :white_check_mark:
+- Investigating and analyzing to conduct root cause analysis (for example, by using Detective) :white_check_mark:
+- Capturing relevant forensics data from a compromised resource (for example, Amazon Elastic Block Store [Amazon EBS] volume snapshots, memory dump) :white_check_mark:
 - Querying logs in Amazon S3 for contextual information related to security events (for example, by using Athena) :white_check_mark:
-- Protecting and preserving forensic artifacts (for example, by using S3 Object Lock, isolated forensic accounts, S3 Lifecycle, and S3 replication) :large_orange_diamond:
+- Protecting and preserving forensic artifacts (for example, by using S3 Object Lock, isolated forensic accounts, S3 Lifecycle, and S3 replication) :white_check_mark:
 - Preparing services for incidents and recovering services after incidents :white_check_mark:
 
 ## IAM

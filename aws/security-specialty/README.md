@@ -23,9 +23,9 @@
 
 ### Threat detection
 
-- Review Secrets manager cheat sheet for rotating credentials
-- 1.1 Review [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html) documentation
-- 1.2 Review [Detective](https://docs.aws.amazon.com/detective/latest/adminguide/detective-terms-concepts.html)
+- Review Secrets manager cheat sheet for rotating credentials :white_check_mark:
+- 1.1 Review [ASFF](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-findings-format.html) documentation :white_check_mark:
+- 1.2 Review [Detective](https://docs.aws.amazon.com/detective/latest/adminguide/detective-terms-concepts.html) :white_check_mark:
 - 1.2 Create a few metrics and dashboards in CloudWatch
 - 1.3 AWS Lambda, AWS Step Functions, EventBridge, AWS Systems Manager runbooks and AWS Config for responding to alerts
 
