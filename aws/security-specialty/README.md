@@ -9,16 +9,6 @@
 - Domain 5: Data Protection (**18%** of scored content)
 - Domain 6: Management and Security Governance (**14%** of scored content)
 
-## Certs to pursue
-
-![AWS Cert Path](images/cert-path.png)
-
-|Icon|Meaning|
-|--|--|
-|:white_check_mark:|Knowledgable in this area|
-|:large_orange_diamond:|Mid|
-|:red_circle:|Knowledge/skills gap|
-
 ## Final tasks
 
 ### Threat detection
